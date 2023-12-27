@@ -1,12 +1,11 @@
-from random import randrange
-import requests
-from bs4 import BeautifulSoup
-
 """
 Solutions for excercies suggested by https://www.practicepython.org/
 <Exercise #> - <Exercise name> <difficulty>
 Some exercises include extra functonality, for further details visit practicepython.org
 """
+from random import randrange
+import requests
+from bs4 import BeautifulSoup
 
 
 def character_input():
